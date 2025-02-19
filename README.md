@@ -1,7 +1,7 @@
 # GCDUFS-KBS-2024
 Graph–Regularized Consensus Learning and Diversity Representation for unsupervised multi-view feature selection
 
-Shengke Xu and Xijiong Xie and Zhiwen Cao
+Shengke Xu and Xijiong Xie* and Zhiwen Cao
 
 @article{XU2025113043,
 title = {Graph–Regularized Consensus Learning and Diversity Representation for unsupervised multi-view feature selection},
